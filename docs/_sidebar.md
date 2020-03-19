@@ -1,28 +1,28 @@
 - Getting started
 
-  - [Quick start](note/1.md)
-  - [Writing more pages](note/1-copy.md)
-  - [Custom navbar](note/1-copy-2.md)
-  - [Cover page](cover.md)
+  - [快速使用](note/Git.md)
+  - [yang66995](note/1-copy.md)
+  - [yang66995](note/1-copy-2.md)
+  - [yang66995](cover.md)
 
 - Customization
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
+  - [yang66995](configuration.md)
+  - [yang66995](themes.md)
+  - [yang66995](plugins.md)
+  - [yang66995](write-a-plugin.md)
+  - [yang66995](markdown.md)
+  - [yang66995](language-highlight.md)
 
 - Guide
 
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode(PWA)](pwa.md)
-  - [Server-Side Rendering(SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
+  - [yang66995](deploy.md)
+  - [yang66995](helpers.md)
+  - [yang66995](vue.md)
+  - [yang66995](cdn.md)
+  - [yang66995](pwa.md)
+  - [yang66995](ssr.md)
+  - [yang66995](embed-files.md)
 
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+- [yang66995](awesome.md)
+- [yang66995](changelog.md)

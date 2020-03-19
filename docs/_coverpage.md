@@ -1,6 +1,6 @@
 ![logo](_media/logo.png)
 
-# Qt <small>1.0.0</small>
+# Git <small>1.0.0</small>
 
 > 简化桌面，嵌入式和移动平台的应用程序和用户界面的创建
 
